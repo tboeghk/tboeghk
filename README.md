@@ -8,4 +8,5 @@ I'm a _Senior Search- & Operations Engineer_ based in Hamburg, Germany.
 - ⚙️ Raving about `arm64` and native Java builds
 - 💬 Ping me about **search**, **solr**, **observability**, **infrastructure as code**
 - 📫 Reach out to me: [twitter.com/tboeghk](https://twitter.com/tboeghk)
+- 🧐 For details check out [my website](https://www.thiswayup.de)
 - 🚴 I love everything about bikes & biking
